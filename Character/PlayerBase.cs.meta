@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1bc0fc13d40b0fc459bee163d478edc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sound1: {instanceID: 0}
+  - sound2: {instanceID: 0}
+  - sound3: {instanceID: 0}
+  - sound4: {instanceID: 0}
+  - sound5: {instanceID: 0}
+  - stanSound: {fileID: 8300000, guid: 990f09289421fde45a57391d809f5e0f, type: 3}
+  - myPV: {instanceID: 0}
+  - cc: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
